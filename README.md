@@ -48,7 +48,7 @@ need to select this option and and it will show all the contacts you had saved t
 including their details. Here we will be using traversing and sort of swapping things. The 
 contacts can be easily displayed by just entering one or two letters of the name or two three 
 numbers of the respective contact.
-### OUTPUT FOR ABOVE CODE:
+### OUTPUT:
 
 Here using add contacts function we have added three contacts of our dear friends 
 ,for now, namely, Samyak, Agasthya, Jasshu. After this we will show all the 
